@@ -8,7 +8,8 @@
     font-weight: var(--fa-style, 900); }
   
   .fa-solid,
-  .fa-regular,
+  .fa-regular
+    font-family: 'Source Sans Pro'; }
   .fa-brands,
   .fas,
   .far,
@@ -33,7 +34,7 @@
   
   .fab,
   .fa-brands {
-    font-family: 'Font Awesome 6 Brands'; }
+    font-family: 'Source Sans Pro'; }
   
   .fa-1x {
     font-size: 1em; }
