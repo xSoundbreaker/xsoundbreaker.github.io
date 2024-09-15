@@ -8,7 +8,7 @@
     font-weight: var(--fa-style, 900); }
   
   .fa-solid,
-  .fa-regular
+  .fa-regular {
     font-family: 'Source Sans Pro'; }
   .fa-brands,
   .fas,
